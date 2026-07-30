@@ -29,11 +29,10 @@ AI 모델을 개발하는 것에서 끝나지 않고, 사용자가 실제로 활
 - 경기대학교 AI컴퓨터공학부 인공지능전공
 - GPA: **4.2 / 4.5**
 - 관심 분야: **Artificial Intelligence · Data Analysis · Computer Vision · RAG · AI Service**
-- AI컴퓨터공학부 부학생회장
 
 ---
 
-## Tech Stack
+## ⚒️ Tech Stack
 
 <div align="center">
 
@@ -80,7 +79,7 @@ AI 모델을 개발하는 것에서 끝나지 않고, 사용자가 실제로 활
 
 ---
 
-## Experience
+## 🌱 Experience
 
 | 기간 | 활동 | 내용 |
 |---|---|---|
@@ -94,7 +93,7 @@ AI 모델을 개발하는 것에서 끝나지 않고, 사용자가 실제로 활
 
 ---
 
-## Experience & Projects
+## 💻 Projects
 
 ### AI 기반 가짜 리뷰 탐지 및 클린 리뷰 플랫폼
 
@@ -252,7 +251,7 @@ AI 구성 요소와 보안 명세를 블록체인에 기록하고, AI 위협 탐
 
 ---
 
-## Publications & Awards
+## 🏆 Publications & Awards
 
 | 연도 | 구분 | 내용 |
 |---|---|---|
@@ -267,16 +266,16 @@ AI 구성 요소와 보안 명세를 블록체인에 기록하고, AI 위협 탐
 
 ---
 
-## Certification
+## 📚 Certification
 
 - **CSTS**
 - **ADsP**
 - **TOPCIT Level 3**
-- **빅데이터분석기사 필기 합격**
+- **빅데이터분석기사**
 
 ---
 
-## Repositories
+## 📍 Repositories
 
 | Repository | Description |
 |---|---|
@@ -305,7 +304,7 @@ AI 구성 요소와 보안 명세를 블록체인에 기록하고, AI 위협 탐
 
 ---
 
-## Contact
+## 📞 Contact
 
 - GitHub: [github.com/sheunn](https://github.com/sheunn)
 - Portfolio: [sheunn.github.io](https://sheunn.github.io)
